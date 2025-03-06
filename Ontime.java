@@ -4,5 +4,10 @@ public class Ontime {
 
     private String name;
 
+    private boolean gender;
+
+    private Float salary;
+
+
 
 }
